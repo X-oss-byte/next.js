@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "joi": "latest",
-    "next": "latest",
+    "next": "15.3.1",
     "next-connect": "latest",
     "next-joi": "latest",
     "react": "latest",
