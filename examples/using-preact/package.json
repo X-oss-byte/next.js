@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
+    "next": "15.3.1",
     "next-plugin-preact": "latest",
     "preact": "^10.10.6",
     "preact-render-to-string": "^5.2.3",
