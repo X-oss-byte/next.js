@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@formatjs/intl-localematcher": "0.2.32",
-    "negotiator": "0.6.3",
+    "negotiator": "0.6.4",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
